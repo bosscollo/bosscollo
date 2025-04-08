@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, I'm Collins Boss
 
-<!--
-**bosscollo/bosscollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity & Forensics student, bug bounty hunter and passionate about Web App security and Network Secuurity.
 
-Here are some ideas to get you started:
+## Interests
+- Bug Bounties (Recon, Web Exploits, Responsible Disclosure)
+- Web Application Security (XSS, IDOR, SQLi, SSRF, etc.)
+- Red Teaming
+- Network Security
+- Partly Digital Forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Bug Bounty Recon Toolkit
+- Web App Vulnerability Labs (HTML/JS)
+
+## Learning Stack
+- Burp Suite • Nmap • Subfinder • Amass • ffuf
+- OWASP Top 10 • GitHub Recon • Bash Scripting
+
+Let’s hack responsibly 🔐🚀
