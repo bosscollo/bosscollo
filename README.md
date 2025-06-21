@@ -1,20 +1,20 @@
 # 👋 Hey there, I'm Collins Boss
 
-I'm a Cybersecurity & Forensics student, bug bounty hunter and passionate about Web App security and Network Security.
+Man's a Cybersecurity & Forensics student, bug bounty hunter and passionate about Web App security and Network Security.
+Recently became an AI enthusiast
 
 ## Interests
 - Bug Bounties (Recon, Web Exploits, Responsible Disclosure)
-- Web Application Security (XSS, IDOR, SQLi, SSRF, etc.)
+- Web Application Security
 - Red Teaming
 - Network Security
 - Partly Digital Forensics
+- Artificial Intelligence and Machine Learning
 
 ## Current Projects
 - Bug Bounty Recon Toolkit
-- Web App Vulnerability Labs (HTML/JS)
-
-## Learning Stack
-- Burp Suite • Nmap • Subfinder • Amass • ffuf
-- OWASP Top 10 • GitHub Recon • Bash Scripting
+- Web App Vulnerability Labs(I'm never doing this)
+- Network Reconnaisance Framework
+- AI agents here and there
 
 Let’s hack responsibly 🔐🚀
