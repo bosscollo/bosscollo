@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Collins Boss
 
-I'm a Cybersecurity & Forensics student, bug bounty hunter and passionate about Web App security and Network Secuurity.
+I'm a Cybersecurity & Forensics student, bug bounty hunter and passionate about Web App security and Network Security.
 
 ## Interests
 - Bug Bounties (Recon, Web Exploits, Responsible Disclosure)
