@@ -15,6 +15,6 @@ Recently became an AI enthusiast
 - Bug Bounty Recon Toolkit
 - Web App Vulnerability Labs(I'm never doing this)
 - Network Reconnaisance Framework
-- AI agents here and there
+- Something to do with AI in future!
 
 Let’s hack responsibly 🔐🚀
