@@ -1,7 +1,7 @@
 # Hi, I'm Collins Boss
 
 I'm a freelance cybersecurity consultant focused on offensive security, bug bounty hunting and penetration testing.  
-I enjoy breaking systems ethically to help secure them — and building small tools that make recon faster and reporting clearer.
+I enjoy breaking systems ethically to help secure them and building small tools that make recon faster and reporting clearer.
 
 ## What I Do
 - Penetration Testing (Web apps, APIs, Networks)
