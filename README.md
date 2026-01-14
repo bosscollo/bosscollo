@@ -13,15 +13,14 @@ I enjoy breaking systems ethically to help secure them and building small tools 
 ## Featured Projects
 
 ### Bug Bounty Recon Toolkit
-An internal tool I built to automate parts of the recon workflow (subdomain scanning, port scans, directory brute force, and PDF export).  
-📎 [View Project](https://github.com/bosscollo/bugbounty-toolkit)
+An internal tool I built to automate parts of the recon workflow
 
 ### Freelance Security Testing (2024–Present)
 Worked with private clients to test application and infrastructure security.  
 Reported vulnerabilities, recommended fixes, and helped teams improve posture.
 
 ###  Cybersecurity Talks
-Partnered with SMEs & Organizations to deliver digital safety sessions for schools and businesses — on phishing, social engineering and others like Child online safety & Cyberbullying.
+Partnered with SMEs & Organizations to deliver digital safety sessions for schools and businesses 
 
 ---
 
