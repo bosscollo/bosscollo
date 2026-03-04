@@ -1,48 +1,65 @@
-# Hi, I'm Collins Boss
+# Hey, I'm Collins Boss
+### Cybersecurity & AI Underdog
 
-I help organizations understand cybersecurity and AI risks in business terms, guiding executives and boards to make informed decisions.  
-With a background in AI, cybersecurity, and hands-on security engineering, I bridge the gap between technical realities and strategic business outcomes.
+I'm a Computer Security & Forensics graduand who got hooked on one idea: AI and cybersecurity make each other better. So I started building at that intersection instead of choosing a lane.
+In the last year alone, I've built AI-powered policy tracking systems for a national research institute, automated vulnerability detection agents for SMEs, and trained 50+ people on real attack scenarios - prompt injection, live simulations and AI Security awareness.
+I don't have a decade of enterprise experience. What I have is:
 
----
-
-## What I Do
-
-- **Cyber Risk Assessment & Governance** – Evaluating organizational risks and designing frameworks that align with business goals.  
-- **Regulatory & Compliance Advisory** – Helping companies meet ISO 27001, NIST, GDPR, and other compliance requirements.  
-- **AI & Cybersecurity Strategy** – Designing secure AI systems, risk-aware pipelines, and responsible AI practices.  
-- **Executive Briefings & Risk Communication** – Translating complex technical issues into actionable insights for board members and decision-makers.
+-A bias for building things that actually work
+-Comfort translating between technical teams and non-technical humans
+-A habit of showing up at 2am when the RAG pipeline breaks
+AI and Cyber Security moves fast. Governance has to move faster. Someone has to sit in that uncomfortable middle seat and I have somehow made it my whole personality.
 
 ---
 
-## Featured Projects
+## What I'm working with
 
-- **AI Risk Dashboard** – Built a pipeline to monitor AI models for security and compliance risks, presenting results in executive-friendly reports.  
-- **Governance & Compliance Frameworks** – Developed internal risk assessment frameworks to identify business-critical vulnerabilities and compliance gaps.  
-- **Security Talks for Leadership** – Delivered sessions for executives and SMEs on AI risk management, cyber hygiene, and strategic decision-making.
-
----
-
-## Past Technical Work
-
-*This demonstrates my hands-on experience that informs my strategic guidance.*
-
-- Penetration Testing & Red Team Simulations  
-- Bug Bounty Programs & Responsible Disclosure  
-- Offensive Security Tool Development  
-- AI & ML Model Development for Cybersecurity Automation
+```
+AI & Security          -> Agentic AI · RAG pipelines · LLM orchestration · LangChain
+Offensive Security     -> Web & network pentesting · Red team simulations · Bug bounty
+Governance             -> ISO 27001 · NIST · GDPR · Risk assessments
+Automation             -> Python · Bash · workflow pipelines
+Networking             -> CCNA certified · Linux/Unix · VPNs · firewalls
+Tools                  -> Burp Suite · Nmap · Wireshark · Metasploit · SQLmap
+```
 
 ---
 
-## Speaking & Publications
+## Things I've actually built
 
-- Executive Briefings on Cyber Risk & AI Security  
-- Workshops on Translating Technical Risks into Business Decisions  
-- Advisory contributions for SMEs and Fortune 500 companies  
+**PlanTrack Kenya** *(2026)*  
+redacted*
+
+**Policy Intelligence Digest Agent** *(Redacted, 2026)*  
+An agentic news system that crawls the web, filters content, hits AI APIs for summarization, and delivers topic-specific policy briefs straight to analysts' inboxes. Automated something that previously took humans hours every morning.
+
+**AI Security Assessment Agents** *(Freelance, 2024)*  
+Python-based AI agents that automate vulnerability detection workflows. The idea: let the AI do the boring scans so humans focus on what actually matters.
+
+**50+ Students Trained in Cybersecurity** *(Moka Bit Technologies, 2023-2024)*  
+Ran 10+ workshops - covered prompt injection, live attack simulations, secure AI deployment. Post-training assessments showed 75% improvement in cyber awareness. Numbers don't lie.
 
 ---
 
-## Get in Touch
+## Currently
 
-✉️ Email: collinskboss@gmail.com 
-🔗 GitHub: [github.com/bosscollo](https://github.com/bosscollo)  
-🌐 Portfolio: Available on request
+- Building AI tools that make security more accessible
+- Deep-diving into AI governance and enterprise risk advisory
+- Occasional bug bounty hunter
+
+---
+
+## Certs
+
+- **CCNA** - Cisco Certified Network Associate (2023)
+- **CNSP** - Certified Network Security Practitioner (2024)
+
+---
+
+## Let's connect
+
+collinskboss@gmail.com
+[bosscollo.github.io](https://bosscollo.github.io)  
+[LinkedIn](https://linkedin.com/in/collinskipkuruiboss)
+
+---
