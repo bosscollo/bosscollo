@@ -52,9 +52,8 @@ Ran 10+ workshops - covered prompt injection, live attack simulations, secure AI
 ---
 
 ## Let's connect
-
-Email:collinskboss@gmail.com
-Portfolio:  
-[LinkedIn](https://linkedin.com/in/boss-collins)
+- Email: collinskboss@gmail.com
+- Portfolio: [bosscollo.github.io](https://bosscollo.github.io)
+- LinkedIn: [linkedin.com/in/boss-collins](https://linkedin.com/in/boss-collins)
 
 ---
