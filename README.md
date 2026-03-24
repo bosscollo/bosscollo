@@ -1,9 +1,9 @@
 # Hey, I'm Collins Boss
 ### Cybersecurity & AI Underdog
 
-I got hooked on one idea: AI and cybersecurity make each other better.
-I don't have a decade of enterprise experience. What I have is:A bias for building things that actually work,Comfort translating between technical teams and non-technical humans, and a habit of showing up at 2am when the RAG pipeline breaks.
-AI and Cyber Security moves fast. Governance has to move faster. Someone has to sit in that uncomfortable middle seat and I have somehow made it my whole personality.
+I work at the intersection of cybersecurity and AI on both the technical and the policy fronts
+On the technical end I test systems for weaknesses, build AI-powered tools, and automate workflows. On the other end I do policy research and analysis around AI governance and GRC, the kind of work that ends up informing how institutions actually think about these things.
+Open to AI security, GRC, security engineering, or research
 
 ---
 
@@ -22,17 +22,17 @@ Tools                  -> Burp Suite · Nmap · Wireshark · Metasploit · SQLma
 
 ## Things I've actually built
 
-**PlanTrack Kenya** *(2026)*  
-redacted*
+**PlanTrack Kenya (2026)**
+Building an AI system for economic planning and monitoring tailored to Kenya's policy environment.
+ 
+**Policy Intelligence Digest Agent (2026)**
+AI-powered automation for policy monitoring. Tracks developments across sources, summarizes with AI, and delivers structured briefs to analysts automatically.
+ 
+**AI Security Assessment Agents (Freelance, 2024)**
+Python-based AI agents that automate vulnerability detection workflows. Let the AI do the boring scans so humans focus on what actually matters.
 
-**Policy Intelligence Digest Agent** *(Redacted, 2026)*  
-An agentic news system that crawls the web, filters content, hits AI APIs for summarization, and delivers topic-specific policy briefs straight to analysts' inboxes. Automated something that previously took humans hours every morning.
-
-**AI Security Assessment Agents** *(Freelance, 2024)*  
-Python-based AI agents that automate vulnerability detection workflows. The idea: let the AI do the boring scans so humans focus on what actually matters.
-
-**50+ Students Trained in Cybersecurity** *(Moka Bit Technologies, 2023-2024)*  
-Ran 10+ workshops - covered prompt injection, live attack simulations, secure AI deployment. Post-training assessments showed 75% improvement in cyber awareness. Numbers don't lie.
+**Cybersecurity Training & Consultancy** *(Moka Bit Technologies, 2023-2024)*  
+Ran 10+ workshops - covered prompt injection, live attack simulations, secure AI deployment. Post-training assessments showed 75% improvement in cyber awareness.
 
 ---
 
