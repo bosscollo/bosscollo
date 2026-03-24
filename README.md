@@ -1,7 +1,7 @@
 # Hey, I'm Collins Boss
 ### Cybersecurity & AI Underdog
 
-I'm a Computer Security & Forensics graduand who got hooked on one idea: AI and cybersecurity make each other better.
+I got hooked on one idea: AI and cybersecurity make each other better.
 I don't have a decade of enterprise experience. What I have is:A bias for building things that actually work,Comfort translating between technical teams and non-technical humans, and a habit of showing up at 2am when the RAG pipeline breaks.
 AI and Cyber Security moves fast. Governance has to move faster. Someone has to sit in that uncomfortable middle seat and I have somehow made it my whole personality.
 
